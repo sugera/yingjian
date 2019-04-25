@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+body,html{
+    text-align: center;
+}
+ 
+.username,.password{
+    display: inline-block;
+    text-align: left;
+    width: 60px;
+}
+
+
+
+button{
+    margin-top: 10px;
+    width: 80px;
+    height: 30px;
+    color:white;
+    background: lightblue;
+    font-size: 18px;
+}
+ 
